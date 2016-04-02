@@ -12,7 +12,6 @@
 	},
 	{
 		"reaction_map_name":"DF_mol_gene_pdb.to_csv",
-		"metabolite_map_name":"metabolite_mapping.csv",
         	"organism":"Thermotoga maritima"
 	}
 

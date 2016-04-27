@@ -1,17 +1,17 @@
 {
 "mappings":[
 	{
-		"reaction_map_name":"DF_mol_gene_pdb.to_csv",
-		"metabolite_map_name":"metabolite_mapping.csv",
+		"reaction_map_name":"reaction_mapping.Escherichia coli.csv",
+		"metabolite_map_name":"metabolite_mapping.Escherichia coli.csv",
 		"organism":"Escherichia coli"
 	},
 	{
-		"reaction_map_name":"DF_mol_gene_pdb.to_csv",
-		"metabolite_map_name":"metabolite_mapping.csv",
+		"reaction_map_name":"reaction_mapping.Homo sapiens.csv",
+		"metabolite_map_name":"metabolite_mapping.Homo sapiens.csv",
         	"organism":"Homo sapiens"
 	},
 	{
-		"reaction_map_name":"DF_mol_gene_pdb.to_csv",
+		"reaction_map_name":"reaction_mapping.Thermotoga maritima.csv",
         	"organism":"Thermotoga maritima"
 	}
 
